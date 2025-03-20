@@ -1,0 +1,56 @@
+body{
+    background-image: url(room2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.hide{
+    font-family: "VT323", sans-serif;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0 auto;
+    position: absolute;
+    padding: 0;
+    width: 200px;
+    height: auto;
+}
+
+.p{
+    position: absolute;
+}
+
+.book{
+    top: 5%;
+    left:40%;
+}
+.map{
+    top: 30%;
+    left:60%
+}
+.bench{
+    top: 80%;
+    left:5%
+}
+
+.window{
+    top: 34%;
+    left:80%
+}
+
+.screen{
+    top: 60%;
+    left:75%
+}
+
+.energy{
+    top: 65%;
+    left:30%
+}
+
+.power{
+    top: 40%;
+    left:28%;
+}
